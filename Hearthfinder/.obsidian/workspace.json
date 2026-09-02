@@ -11,10 +11,12 @@
             "id": "f90436c52f06f386",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Heian Japan Images/Map-of-Japan-1183-Heian-Genpei-War.png"
+              },
+              "icon": "lucide-image",
+              "title": "Map-of-Japan-1183-Heian-Genpei-War"
             }
           }
         ]
@@ -181,12 +183,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "04d9b97dd898bba0",
+  "active": "f90436c52f06f386",
   "lastOpenFiles": [
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Heian Japan Images/Untitled.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Heian Japan Images/Map-of-Japan-1183-Heian-Genpei-War.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Byzantine Empire Images/BE Tactics.png",
+    "Map-of-Japan-1183-Heian-Genpei-War.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Byzantine Empire Images/BE Calvary.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Japan Heian Period.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Heian Japan Images",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Great Moravia.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Abbasid Caliphate Images/AC Clothing Art.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Abbasid Caliphate Images/AC Calvary.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Abbasid Caliphate Images/AC 9th Cent Soldier.png",
+    "Hearthfinder Project/3. After Ragnarök/The World After Ragnarök.md",
     "Hearthfinder Project/1. Hearthfinder Cover Page(s)/Hearthfinder Cover Page.md",
     "Hearthfinder Project",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Abbasid Caliphate.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Japan Heian Period.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Khmer Empire.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Kievan Rus.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Later Three Kingdoms of Korea.md",
@@ -195,7 +208,6 @@
     "Hearthfinder Project/2. Before Ragnarök/Empires/Toltec Empire.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/West Francia.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Wari Empire.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Great Moravia.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Ghana Empire.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Frankish Empire.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/First Bulgarian Empire.md",
@@ -206,15 +218,7 @@
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/RU Fort.png",
     "Hearthfinder Project/2. Before Ragnarök/The World Before Ragnarök.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus BOAT.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus 10th Cent Gear.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus 9th Cent Military.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus Clothes.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus Horsemen.png",
-    "Hearthfinder Project/3. After Ragnarök/The World After Ragnarök.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Byzantine Empire Images/BE Politics.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Byzantine Empire Images/BE Tactics.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Byzantine Empire Images/BE Dromon.png",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Byzantine Empire Images",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Abbasid Caliphate Images",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump",
@@ -226,7 +230,6 @@
     "Hearthfinder Project/2. Before Ragnarök",
     "Hearthfinder Project/1. Hearthfinder Cover Page(s)",
     "Untitled.canvas",
-    "Untitled.base",
     "create a link.md"
   ]
 }
