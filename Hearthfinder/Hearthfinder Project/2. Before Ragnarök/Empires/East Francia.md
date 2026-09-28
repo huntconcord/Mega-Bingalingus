@@ -1,6 +1,7 @@
 *A relevant history snippet thanks to Wikipedia and unfortunately chat GPT*
 
 ## Background
+![[Pasted image 20260922121207.png|196]]![[Pasted image 20260922121159.png|193]]![[Pasted image 20260922121239.png|193]]
 
 East Francia was created through the Treaty of Verdun in 843 and given to Louis the German. It contained most of the Frankish territories east of the Rhine.
 
@@ -17,6 +18,7 @@ East Francia fought against Great Moravia, Slavic communities, Danes, and other 
 East Francia eventually contributed to the formation of medieval Germany and the Holy Roman Empire.
 
 ## Culture
+![[Pasted image 20260922121711.png|226]]![[Pasted image 20260922122138.png|362]]
 
 East Frankish culture combined Germanic regional traditions with Carolingian government and Latin Christianity.
 
@@ -52,6 +54,7 @@ The East Frankish army included:
 Regional nobles played an especially important role because East Francia possessed several long and unstable frontiers.
 
 ### Gear and equipment
+![[Pasted image 20260922123005.png|196]]![[Pasted image 20260922123047.png]]
 
 East Frankish mounted warriors carried:
 
@@ -118,6 +121,7 @@ East Frankish kings regularly used one neighboring people against another. A rul
 Armies were strongly regional. Bavarian forces were especially important along the Danube, while Saxon armies concentrated on the northern and northeastern frontiers.
 
 ## Politics
+![[Pasted image 20260922123216.png|536]]
 
 East Francia was ruled by the Carolingian dynasty, but the king depended heavily on powerful regional nobles and church leaders.
 

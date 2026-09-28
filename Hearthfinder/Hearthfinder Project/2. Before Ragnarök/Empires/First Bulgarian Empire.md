@@ -1,12 +1,14 @@
 *A relevant history snippet thanks to Wikipedia and unfortunately chat GPT*
 
 ## Background
+![[Pasted image 20260922123553.png]]
 
 The First Bulgarian Empire was established in 681 after the Byzantine Empire recognized Bulgar control over territory south of the Danube River. Its population included the ruling Bulgars, numerous Slavic communities, and remnants of older Balkan populations.
 
 Between 700 and 900, Bulgaria grew from a relatively new frontier state into one of the strongest powers in southeastern Europe. Its principal capitals during this period were Pliska and, beginning in 893, Preslav.
 
 ## Culture
+![[Pasted image 20260922123621.png|231]]![[Pasted image 20260922123627.png|230]]![[Pasted image 20260922123746.png|227]]
 
 Early Bulgarian society combined Bulgar and Slavic traditions. The Bulgars originally had a steppe-based culture and followed a religion often associated with the god Tangra, while the Slavs followed various polytheistic traditions.
 
@@ -17,6 +19,7 @@ Beginning in 886, students of Cyril and Methodius established religious and lite
 ## Military
 
 ### Organization
+![[Pasted image 20260922124924.png|539]]
 
 The Bulgarian army combined the traditions of the steppe-dwelling Bulgars with those of the empire’s Slavic population.
 
@@ -29,7 +32,7 @@ The Bulgarian army combined the traditions of the steppe-dwelling Bulgars with t
 Bulgarian armies were usually smaller than Byzantine armies, but they compensated with mobility, surprise, and careful use of terrain.
 
 ### Gear and equipment
-
+![[Pasted image 20260922125043.png|253]]![[Pasted image 20260922125126.png]]
 Bulgar cavalrymen commonly carried:
 
 - Composite bows for mounted archery
@@ -70,6 +73,7 @@ Slavic infantry was useful in forests, hills, and narrow terrain where cavalry h
 The Bulgarians were especially skilled at using the Balkan landscape. They blocked mountain passes with wooden walls, trenches, and other obstacles before trapping enemy armies. This strategy contributed to the destruction of Emperor Nikephoros I’s army in 811.
 
 ### Siege warfare
+![[Pasted image 20260922125232.png]]
 
 Early Bulgarian armies were better suited to cavalry warfare than prolonged sieges. Under Khan Krum, however, Bulgaria captured Byzantine engineers and siege equipment.
 
@@ -90,6 +94,7 @@ The Bulgarian army was known for patience. Commanders often allowed an invading 
 Bulgarian victories could also carry symbolic meaning. According to Byzantine chroniclers, Krum had the skull of Emperor Nikephoros lined with silver and used it as a drinking cup after the Byzantine defeat in 811.
 
 ## Politics
+![[Pasted image 20260922125315.png|265]]
 
 Bulgaria was ruled by khans until the Christianization of the empire changed its political traditions. The early government depended heavily on powerful Bulgar noble families.
 
