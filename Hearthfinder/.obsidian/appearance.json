@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "accentColor": "#1a8e2d"
+  "accentColor": "#1a8e2d",
+  "enabledCssSnippets": []
 }
