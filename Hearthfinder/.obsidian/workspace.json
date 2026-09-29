@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "6a7670ca7e0d825e",
+    "id": "79746a0346d4e3be",
     "type": "split",
     "children": [
       {
-        "id": "6a826f72e4818af0",
+        "id": "0841d01374adc095",
         "type": "tabs",
         "children": [
           {
-            "id": "408dc87a897aa8ce",
+            "id": "6d8549a6f11ffa79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hearthfinder Project/2. Before Ragnarök/Empires/Frankish Empire.md",
+                "file": "Hearthfinder Project/2. Before Ragnarök/Empires/Abbasid Caliphate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frankish Empire"
+              "title": "Abbasid Caliphate"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "04c4894622d540bd",
+    "id": "5fc94b58d95bacc7",
     "type": "split",
     "children": [
       {
-        "id": "b8ed9e406c51fb3b",
+        "id": "ae7d60134a714d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "04d9b97dd898bba0",
+            "id": "d520a807e333ea56",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "180c6750f630c720",
+            "id": "bce38b5e7dec2ffd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "3894ed0b7132f351",
+            "id": "c30b08308bf7889b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,15 +86,15 @@
     "width": 300
   },
   "right": {
-    "id": "3f36fe858e625ce0",
+    "id": "514c6a5763b4e8f4",
     "type": "split",
     "children": [
       {
-        "id": "5a9b94df581a59f9",
+        "id": "7b4e93e683d8a29a",
         "type": "tabs",
         "children": [
           {
-            "id": "feac5d8ab80bcc9b",
+            "id": "ca7e486e685f19be",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -112,7 +112,7 @@
             }
           },
           {
-            "id": "a98f6b1360be92b1",
+            "id": "6f5130cac2192c4c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -125,7 +125,7 @@
             }
           },
           {
-            "id": "6fcc44abd28d0afa",
+            "id": "6f0214c9b5386777",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +140,7 @@
             }
           },
           {
-            "id": "a4a488e123bf81ce",
+            "id": "8f05883719115e5b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "3e4ae1386c09736b",
+            "id": "d2e55acc8550d4df",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -185,52 +185,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "408dc87a897aa8ce",
+  "active": "6d8549a6f11ffa79",
   "lastOpenFiles": [
-    "Hearthfinder Project/2. Before Ragnarök/Empires/First Bulgarian Empire.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images/Pasted image 20260922125043.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images/Pasted image 20260922125315.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images/Pasted image 20260922125232.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images/Pasted image 20260922125126.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images/Pasted image 20260922123553.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images/Pasted image 20260922123621.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images/Pasted image 20260922123627.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images/Pasted image 20260922124924.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/East Francia.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Chola Kingdom.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Frankish Empire.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Ghana Empire.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/West Francia.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Abbasid Caliphate.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Byzantine Empire.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images/Pasted image 20260922123746.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/East Francia/Pasted image 20260922123216.png",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Kievan Rus.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/East Francia",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Chola Kingdom Images",
     "Hearthfinder Project/2. Before Ragnarök/The World Before Ragnarök.md",
+    "Hearthfinder Project/3. After Ragnarök/The World After Ragnarök.md",
+    "Hearthfinder Project/3. After Ragnarök",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/West Francia.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Wari Empire.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Toltec Empire.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Tang dynasty.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Pala Empire.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Later Three Kingdoms of Korea.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Kievan Rus.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Khmer Empire.md",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Japan Heian Period.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Great Moravia.md",
-    "Hearthfinder Project/1. Hearthfinder Cover Page(s)/Hearthfinder Cover Page.md",
-    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Heian Japan Images",
-    "Hearthfinder Project",
-    "Hearthfinder Project/3. After Ragnarök/The World After Ragnarök.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus Clothes.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus Horsemen.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus BOAT.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus 9th Cent Military.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/Rus 10th Cent Gear.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/RU Fort.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images/RU Court.png",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Kievan Rus Images",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Heian Japan Images/Map-of-Japan-1183-Heian-Genpei-War.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Heian Japan Images",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/East Francia/Pasted image 20260922123216.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/East Francia/Pasted image 20260922123047.png",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/East Francia",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Chola Kingdom Images",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Byzantine Empire Images",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Bulgarian Emp Images",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump/Abbasid Caliphate Images",
     "Hearthfinder Project/2. Before Ragnarök/Empires/Image Dump",
-    "Before Ragnarök/Empires/Chimor.md",
-    "Before Ragnarök/Empires/Pagan Kingdom.md",
-    "aa.md",
-    "Hearthfinder Project/3. After Ragnarök",
-    "Untitled.canvas",
-    "create a link.md"
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Ghana Empire.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Great Moravia.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Frankish Empire.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/First Bulgarian Empire.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Chola Kingdom.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/East Francia.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Byzantine Empire.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires/Abbasid Caliphate.md",
+    "Hearthfinder Project/2. Before Ragnarök/Empires",
+    "Hearthfinder Project/1. Hearthfinder Cover Page(s)/Hearthfinder Cover Page.md"
   ]
 }
